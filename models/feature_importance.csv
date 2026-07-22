@@ -1,0 +1,76 @@
+Feature,Importance
+cat__projectile_20MMFSP,0.14075573
+remainder__calibre,0.1340236
+cat__Material_AA7085-T721,0.104763635
+cat__Material_AA2139-T8,0.05771289
+remainder__thickness,0.048889723
+cat__projectile_CAL50FSP,0.047359955
+cat__Material_AA6055-T651,0.04547733
+cat__projectile_CAL50APM2,0.033901162
+remainder__proj_hardness,0.03188095
+remainder__density,0.028831381
+remainder__yield,0.02847636
+cat__projectile_145MMB32,0.023134233
+remainder__UTS,0.022160439
+remainder__proj_mass,0.020868368
+cat__proj_type_frag,0.016418131
+cat__projectile_762MMM80,0.016101096
+cat__Material_AA6061-T651,0.014778946
+remainder__hardness,0.01441561
+cat__Material_HHA Class 1,0.012815432
+cat__projectile_CAL30APM2,0.011327867
+remainder__elongation,0.011199353
+cat__proj_type_ball,0.010508369
+remainder__angle,0.010121294
+remainder__modulus,0.009048911
+cat__Material_AA5059-H131,0.007927338
+cat__projectile_30MMAPDS,0.007582219
+cat__proj_type_AP,0.0073461006
+cat__Material_MARS440,0.007243659
+cat__projectile_145MMBS41,0.0066306693
+remainder__Ludwik-n,0.0064043924
+cat__Material_MARS500,0.0059013385
+cat__Material_MARS600,0.005815849
+cat__Material_BIS HHA,0.0052542044
+remainder__proj_density,0.005092247
+cat__Material_ARMOX ADVANCE,0.00490774
+cat__Material_AA7039-T64,0.0039868574
+cat__Material_ARMOX370 Class 1,0.0034696262
+cat__Material_BIS UHH,0.0032826762
+cat__Material_AA6082-T6,0.003190796
+cat__Material_AA7056-T751,0.0030215266
+cat__Material_AA5059-H136,0.002986266
+cat__Material_AA7017-T6,0.0028947624
+cat__Material_AA7056-T761,0.0027560825
+cat__Material_AA7085-T711,0.0025238448
+cat__Material_ATI 500-MIL,0.0016591176
+cat__Material_ARMOX600,0.0015458621
+cat__projectile_CAL30APM2 (core),0.0014762452
+cat__Material_AA2060-T8,0.0012304455
+cat__Material_SECURE600,0.00089924544
+cat__projectile_CAL30M2ball,0.0
+cat__projectile_20MMM602,0.0
+cat__Material_AA5083-H131,0.0
+cat__Material_AA2024-T351,0.0
+cat__Material_AA5083-H116,0.0
+cat__Material_AA5083-H112,0.0
+cat__Material_AA6070-T4,0.0
+cat__Material_AA6070-O,0.0
+cat__Material_AA7020-T651,0.0
+cat__Material_AA6070-T6,0.0
+cat__Material_ARMOX560,0.0
+cat__Material_ARMOX500,0.0
+cat__Material_AA7075-T651,0.0
+cat__Material_AA7056-T721,0.0
+cat__Material_AA7017-T7,0.0
+cat__Material_AA6070-T7,0.0
+cat__Material_BIS RHA360,0.0
+cat__Material_BIS UHTA,0.0
+cat__Material_SECURE400,0.0
+cat__Material_SECURE350,0.0
+cat__Material_RHA Class 1,0.0
+cat__Material_MARS650,0.0
+cat__Material_BIS HTA,0.0
+cat__Material_BIS RHA300,0.0
+cat__Material_SECURE500,0.0
+remainder__PR,0.0

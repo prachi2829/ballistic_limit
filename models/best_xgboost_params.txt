@@ -1,0 +1,17 @@
+Best XGBoost Parameters
+
+n_estimators: 486
+max_depth: 4
+learning_rate: 0.08494161355261695
+subsample: 0.6601983112147155
+colsample_bytree: 0.7895739925977383
+min_child_weight: 6
+gamma: 4.179441760141914
+objective: reg:squarederror
+random_state: 42
+eval_metric: rmse
+
+MAE: 27.22
+RMSE: 42.10
+R2 Score: 0.9138
+Cross Validation R2: 0.9179
